@@ -1,3 +1,3 @@
 def call(){
-echo "Hello Random"
+echo "Hello SuchThat, Welcome to TeamsLegend"
 }
